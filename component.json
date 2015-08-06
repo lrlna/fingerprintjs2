@@ -1,0 +1,12 @@
+{
+  "name": "fingerprintjs2",
+  "repo": "lrlna/fingerprintjs2", 
+  "description": "fingerprinting client side things",
+  "version": "0.7.1",
+  "keywords": [],
+  "dependencies": {},
+  "main": "fingerprint2.js",
+  "scripts": [
+    "fingerprint2.js"
+  ]
+}
